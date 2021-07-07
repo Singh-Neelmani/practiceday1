@@ -11,7 +11,7 @@
                 -ms-transform: scaleY(4);
                 transform: scaleY(4);
             }
-            div#mydiv2{
+            div#mydiv2{ 
                 -ms-transform: rotate(-20deg);
                 transform:rotate(-20deg);
             }
